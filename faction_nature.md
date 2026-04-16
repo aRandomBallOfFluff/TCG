@@ -1,0 +1,4 @@
+> **Jour 3**
+> Cela fait maintenant deux nuits que je n'arrive pas à fermer l'oeil. Comment pourrais-je quand les arbres nous surveillent, nous traquent, nous éliminent? Nous ne sommes plus que le quart de la troupe, et nous n'avons toujours pas vu l'ombre d'une ville à convertir. Il faut que nous fassions demi-tour. Que nous allions dire aux autres d'abandonner la mission. Mais dans quel direction? Tous les arbres se ressemblent. Et à chaque pas que nous faisons, nous risquons de tomber sur un autre de leurs pièges. D'être transformés en porcs-épics humains par leurs bombes de ronces. D'être dévorés par des créatures infâmes, comme Johann. Chaque fois que je ferme les yeux, je le vois, son corps couvert de larves, criant, agonisant pendant qu'elles le grugeaient de l'intérieur... Johann? C'est toi? Tu es vivant? Attends-moi. Je vais te rejoindre.
+> *Journal d'un missionnaire*
+

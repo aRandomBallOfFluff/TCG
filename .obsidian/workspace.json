@@ -11,30 +11,30 @@
             "id": "047cb7796df14e6a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "faction_nature.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "faction_nature"
             }
           }
         ]
       },
       {
-        "id": "81031aee35f8accd",
+        "id": "14686d59920bd825",
         "type": "tabs",
         "children": [
           {
-            "id": "441bec48d32ae490",
+            "id": "603d0ed10867bc97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cartes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cartes"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,16 +208,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b31f1666751beb2c",
+  "active": "603d0ed10867bc97",
   "lastOpenFiles": [
-    "Cartes.md",
     "Factions.md",
-    "faction_test.md",
-    "personnage_test.md",
-    "Personnages.md",
+    "faction_nature.md",
     "Jeu.md",
     "Lore.md",
+    "Personnages.md",
+    "personnage_test.md",
+    "faction_test.md",
     "core_rules.md",
-    "Accueil.md"
+    "Cartes.md",
+    "Accueil.md",
+    "jean_biche_legende_1.md"
   ]
 }

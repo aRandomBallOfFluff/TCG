@@ -1,1 +1,2 @@
-[Groupe des Personnes](faction_test)
+- [Groupe des Personnes](faction_test)
+- [NOM_FACTION_NATURE](faction_nature.md)
