@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "14686d59920bd825",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "603d0ed10867bc97",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -208,14 +192,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "603d0ed10867bc97",
+  "active": "047cb7796df14e6a",
   "lastOpenFiles": [
-    "Factions.md",
     "faction_nature.md",
+    "personnage_test.md",
+    "Factions.md",
     "Jeu.md",
     "Lore.md",
     "Personnages.md",
-    "personnage_test.md",
     "faction_test.md",
     "core_rules.md",
     "Cartes.md",
